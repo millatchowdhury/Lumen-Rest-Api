@@ -1,0 +1,1270 @@
+[27-Feb-2020 18:06:29 UTC] PHP Warning:  require(/home/codesili/siteapi.codesilicon.combootstrap/app.php): failed to open stream: No such file or directory in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:06:29 UTC] PHP Fatal error:  require(): Failed opening required '/home/codesili/siteapi.codesilicon.combootstrap/app.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:06:29 UTC] PHP Warning:  require(/home/codesili/siteapi.codesilicon.combootstrap/app.php): failed to open stream: No such file or directory in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:06:29 UTC] PHP Fatal error:  require(): Failed opening required '/home/codesili/siteapi.codesilicon.combootstrap/app.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:06:52 UTC] PHP Warning:  require(/home/codesili/siteapi.codesilicon.combootstrap/app.php): failed to open stream: No such file or directory in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:06:52 UTC] PHP Fatal error:  require(): Failed opening required '/home/codesili/siteapi.codesilicon.combootstrap/app.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:07:00 UTC] PHP Warning:  require(/home/codesili/siteapi.codesilicon.combootstrap/app.php): failed to open stream: No such file or directory in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:07:00 UTC] PHP Fatal error:  require(): Failed opening required '/home/codesili/siteapi.codesilicon.combootstrap/app.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:07:06 UTC] PHP Warning:  require(/home/codesili/siteapi.codesilicon.combootstrap/app.php): failed to open stream: No such file or directory in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:07:06 UTC] PHP Fatal error:  require(): Failed opening required '/home/codesili/siteapi.codesilicon.combootstrap/app.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:07:43 UTC] PHP Warning:  require(/home/codesili/siteapi.codesilicon.combootstrap/app.php): failed to open stream: No such file or directory in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:07:43 UTC] PHP Fatal error:  require(): Failed opening required '/home/codesili/siteapi.codesilicon.combootstrap/app.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:07:46 UTC] PHP Warning:  require(/home/codesili/siteapi.codesilicon.combootstrap/app.php): failed to open stream: No such file or directory in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[27-Feb-2020 18:07:46 UTC] PHP Fatal error:  require(): Failed opening required '/home/codesili/siteapi.codesilicon.combootstrap/app.php' (include_path='.:/opt/alt/php73/usr/share/pear') in /home/codesili/siteapi.codesilicon.com/index.php on line 14
+[26-Mar-2020 21:46:28 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:28 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:28 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:28 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:28 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:28 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:28 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:28 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:28 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:30 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:30 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:30 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:30 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:30 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:30 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:37 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:37 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:37 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:37 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:37 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:37 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:38 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:38 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:38 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:50 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:50 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:50 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:50 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:50 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:50 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:50 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:50 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:50 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:46:59 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:51 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:51 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:53 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:53 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:54 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:47:54 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:48:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:48:32 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:48:54 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:48:54 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:11 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:11 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:36 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:36 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:36 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:36 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:36 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:36 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:36 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:36 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:36 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:56 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:56 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:56 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:56 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:56 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:56 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:56 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:56 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:49:56 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:14 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:14 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:14 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:14 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:14 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:14 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:14 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:14 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:14 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:18 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:18 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:18 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:18 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:18 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:18 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:18 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:18 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:18 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:20 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:23 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:23 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:23 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:23 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:23 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:23 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:23 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:23 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:23 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:25 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:25 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:25 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:25 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:25 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:25 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:25 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:25 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:25 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:27 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:27 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:27 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:27 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:27 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:27 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:27 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:27 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:27 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:29 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:29 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:29 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:29 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:29 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:29 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:29 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:29 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:29 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:49 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
+[26-Mar-2020 21:50:53 UTC] PHP Fatal error:  Uncaught ErrorException: Use of undefined constant JSON_UNESCAPED_SLASHES - assumed 'JSON_UNESCAPED_SLASHES' (this will throw an Error in a future version of PHP) in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php:416
+Stack trace:
+#0 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(416): Laravel\Lumen\Application->Laravel\Lumen\Concerns\{closure}(2, 'Use of undefine...', '/home/codesili/...', 416, Array)
+#1 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(401): Illuminate\Log\LogManager->formatter()
+#2 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(377): Illuminate\Log\LogManager->prepareHandler(Object(Monolog\Handler\StreamHandler))
+#3 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(174): Illuminate\Log\LogManager->prepareHandlers(Array)
+#4 /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php(122): Illuminate\Log\LogManager->createEmergencyLogger()
+ in /home/codesili/siteapi.codesilicon.com/vendor/illuminate/log/LogManager.php on line 416
